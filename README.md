@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>MERN Stack projects (Mongo dB, Express, React, Node.js)<br>Backend APIs with Node.js & Express<br>Java-based console and JDBC projects<br>Beginner-friendly MERN projects<br>REST API development<br>Java & Full-Stack mini projects<br>React best practices<br>React Router & Context API<br>Node.js, Express & MySQL<br>Core Java, JDBC & DSA<br>Java basics & OOP concepts<br>MERN stack fundamentals<br>I love learning by building real projects 
+<br>MERN Stack projects (Express, React, Node.js)<br>Backend APIs with Node.js & Express<br>Java-based console and JDBC projects<br>Beginner-friendly MERN projects<br>REST API development<br>Java & Full-Stack mini projects<br>React best practices<br>React Router & Context API<br>Node.js, Express & MySQL<br>Core Java, JDBC & DSA<br>Java basics & OOP concepts<br>MERN stack fundamentals<br>I love learning by building real projects 
 
 
 ## 🌐 Socials:
